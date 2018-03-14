@@ -12,14 +12,16 @@ https://circuitdigest.com/microcontroller-projects/7-segment-display-interfacing
 
 # Code
 
-The major work with device is in TestTopicListener.java
+The major work with device is in `TestTopicListener.java`
 
-The major work with AWS IoT in PublishSubscribeSample.java
+The major work with AWS IoT in `PublishSubscribeSample.java`
 
 # Arduino
 
-Arduino sketch in arduino-sketch.c
+Arduino sketch in `arduino-sketch.c`
+
 Library for connecting to Arduino in Java code 
+
 https://github.com/NeuronRobotics/nrjavaserial
 
 # Links:
