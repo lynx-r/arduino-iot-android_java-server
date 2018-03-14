@@ -24,7 +24,7 @@ Library for connecting to Arduino in Java code
 
 https://github.com/NeuronRobotics/nrjavaserial
 
-# Links:
+# Links
 
 * https://www.arduino.cc/
 * https://aws.amazon.com/iot
